@@ -1,0 +1,24 @@
+/*
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+*/
+
+body {
+  background-color: #EDF0F2;
+  font-family: Open Sans,Arial,sans-serif;
+  /*background: transparent !important; */
+  padding: 1%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#reportsolve {
+  max-width: 595px;
+  background-color: white;
+}
